@@ -1,0 +1,12 @@
+{
+    "startup": {
+        "devInstance": true
+    },
+    "developmentInstance": {
+        "token":"DEV BOT TOKEN HERE",
+        "guildId":"DEV GUILD ID HERE"
+    },
+    "productionInstace":{
+        "token":"MAIN BOT TOKEN HERE"
+    }
+}
